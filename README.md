@@ -3,8 +3,8 @@ Welcome to my personal portfolio! This project showcases my skills and projects 
 
 # How to View My Portfolio
 Clone the Repository:
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+- git clone https://github.com/yourusername/portfolio.git
+- cd portfolio
 
 # Open the Project:
 - Open your preferred code editor (e.g., Visual Studio Code, Sublime Text).
